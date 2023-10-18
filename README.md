@@ -1,13 +1,4 @@
-<style>
-.present {
-  background-color: rebeccapurple;
-  padding:10px;
-  color: white;
-  border-radius: 5px;
-}
-</style>
-
-<h3 align="center" class="present" >
+<h3 align="center" style="background-color: rebeccapurple; padding:10px; color: white; border-radius: 5px;" >
 hola soy Desarrollador fullstack web
 </h3>
 
